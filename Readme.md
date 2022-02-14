@@ -34,7 +34,7 @@ git branch : 브랜치 보기.
 git branch [브랜치 명] : 브랜치 생성.
 브랜치 바꾸기 : git checkout [브랜치명]
 
-브랜치master
+브랜치test
 
 -4 merge, rebase 커밋을 합쳐주는 행위
 
