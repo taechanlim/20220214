@@ -39,6 +39,7 @@ git branch [브랜치 명] : 브랜치 생성.
 -4 merge, rebase 커밋을 합쳐주는 행위
 
 브랜치 합치기 : merge.
+git merge [합칠브랜치명]
 
 
 -5 git log 명령어 
